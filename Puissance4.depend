@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554398945 source:c:\users\theop\documents\efrei\algorithmique-python\puissance4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
